@@ -13,6 +13,9 @@ This is really just a simple analog clock.
 ## Features
 The app is made for mobile and desktop devices, so the page will be fully responsive. It is using a service worker, so the site will be cached on your device and will be available, even if you are offline.
 
+## Demo
+The app is available at https://johetajava.hu/siclo/ but feel free to download this and modify for your own needs. Also, don't forget to message me if this project is useful for you.
+
 <div style="text-align: center">
 
 ![A picture of the application](images/icon-377x377.png)
